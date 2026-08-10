@@ -7,7 +7,7 @@
 
 ---
 
-### 🔭 Currently working on
+### 🔭 Recent Works
 - **VSCE-EL** — M.Tech thesis: visually-driven multimodal entity linking over 90K+ entities. Five-stage pipeline (CLIP retrieval → cross-encoder reranking → QLoRA-tuned LLM selection). **94.75% Top-1 on WikiMEL.**
 - **AskMyDoc** — Production-grade RAG system over research papers. Hybrid BM25 + dense retrieval + SBERT reranking, citation-grounded generation, **85%+ RAGAS faithfulness**.
 
